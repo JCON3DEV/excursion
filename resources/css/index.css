@@ -28,6 +28,12 @@ a {
 }
 
 
+p,
+.copyright {
+  font-size: 21px;
+}
+
+
 .copyright {
   text-align: right;
   color: grey;
